@@ -1,8 +1,8 @@
-# Open-CS-Courses-works
-This is a place to share my works on open CS courses, books and exercises. This is aimed to record my learning path
+# CS Learning
+Learning catalogs on CS courses, books and other resources.
 
 **Course list**
-| Course      | Learning point | Status     | Works	|
+| Course/Book/URL      | Category | Status     | Comments	|
 | :---        | :----          | :---       | :---	|
 | [MIT 18.S191/6.S083/22.S092 Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall22/)        | Numerical Analysis          | On Hold       |
 | [CMU 15-751 A Theorist's Toolkit](https://www.cs.cmu.edu/~15751/), [Lectures](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)	| General	| In progress	|
@@ -19,7 +19,7 @@ This is a place to share my works on open CS courses, books and exercises. This 
 | [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/)      | Python, abstraction of programs, methods of designing programs      | Done   |
 | | |
 | [CS 61B Data Structures](https://sp21.datastructur.es/), [sp18](https://sp18.datastructur.es/index.html)      | Java, data structures & algorithms |	Done     |
-| [MIT 6.006 Introduction to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)      | Data structures & algorithms |	Done     |
+| [MIT 6.006 Introduction to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)      | Data structures & algorithms |	Done     |	The most fantastic exposition of algorithms i ve seen. Did not do most of the programming exercises, but the theory part is solid.	|
 | [AA222 Engineering Design Optimization](https://aa222.stanford.edu/)      | Optimization | Not started     |
 | | |
 | [MIT 6.031 Software Construction](https://web.mit.edu/6.031/www/sp22/)      | Software Engineering | Not started     |
@@ -83,6 +83,7 @@ This is a place to share my works on open CS courses, books and exercises. This 
 | [DS 100: Principles and Techniques of Data Science](https://ds100.org/fa21/)	| data science | Not started	|
 | [CS7646 MACHINE LEARNING FOR TRADING COURSE](https://lucylabs.gatech.edu/ml4t/), [Lectures](https://www.udacity.com/course/machine-learning-for-trading--ud501) | Machine learning | Not started	|
 | [CS221 Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/autumn2021/), [Lectures](https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)	| AI	| Not started	|
+| [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)	|	LLM coding course by karpathy	|	Not started	|
 | [CS5785 Applied Machine Learning](https://cornelltech.github.io/cs5785-fall-2019/index.html)	| Machine learning	| Not started	|
 | [CMU11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S23/index.html)	| Deep learning	| Not started	|
 | [Full Stack Deep Learning](https://fullstackdeeplearning.com/)	| Deep learning	| Not started	|
