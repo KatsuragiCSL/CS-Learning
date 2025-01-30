@@ -32,7 +32,8 @@ Learning catalogs on CS courses, books and other resources.
 | | |
 | [CS442 Principles of Programming Languages](https://student.cs.uwaterloo.ca/~cs442)      | Programming languages | Not started     |
 | [CS242 Programming Languages](https://stanford-cs242.github.io/f19/)	|	Programming languages | Not started     |
-| [CS143 Compilers](http://web.stanford.edu/class/cs143/), [Lectures](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3yc_zf_f1GOxl5CZo0LVBb)      | Compilers | In progress     |
+| [CS143 Compilers](http://web.stanford.edu/class/cs143/), [Lectures](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3yc_zf_f1GOxl5CZo0LVBb)      | Compilers | On hold     |	just cant get through it...let's try other resources	|
+| [KAIST CS420 Compiler design](https://github.com/kaist-cp/cs420?tab=readme-ov-file), [Lectures](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)	|	Compilers	|	Not started	|
 | [CS 6120 Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)	| Compilers	| Not started	|
 | [CSCD70 Compiler Optimization](https://web.archive.org/web/20210306175518/https://uoft-ecosystem.github.io/CSCD70/index.html), [Lectures](https://www.youtube.com/watch?v=S_OeRTePeXg&list=PL0qj8UdnOw30ZGMcM6DwvM1J2tttyy_D6)	| Compilers	| Not started	|
 | | |
